@@ -1,0 +1,16 @@
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\bin\Debug\Tela Responsiva.exe.config
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\bin\Debug\Tela Responsiva.exe
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\bin\Debug\Tela Responsiva.pdb
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva.csproj.AssemblyReference.cache
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\MainWindow.g.cs
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\App.g.cs
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva_MarkupCompile.cache
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva_MarkupCompile.lref
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\MainWindow.baml
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva.g.resources
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela_Responsiva.Properties.Resources.resources
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva.csproj.GenerateResource.cache
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva.csproj.CoreCompileInputs.cache
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva.exe
+C:\Users\2022102020041\source\repos\Tela Responsiva\Tela Responsiva\obj\Debug\Tela Responsiva.pdb
